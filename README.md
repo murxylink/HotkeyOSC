@@ -2,6 +2,7 @@
 ![Logo](https://github.com/murxylink/HotkeyOSC/blob/main/src/256.png)
 
 This tool was made with [VVVV Gamma](https://github.com/vvvv) 6.6
+
 Many thanks to the community for the video tutorials and NuGet that helped me create this application.
 
 Additional NuGet's: [VL.IO.MouseKeyGlobal](https://github.com/bj-rn/VL.IO.MouseKeyGlobal), [VL.WinFormsUtils](https://github.com/domjancik/VL.WinFormsUtils)
