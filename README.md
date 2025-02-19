@@ -1,15 +1,15 @@
 # HotkeyOSC
-A little tool, that helps press buttons via osc
+![Logo](https://github.com/murxylink/HotkeyOSC/blob/main/src/256.png)
 
 This tool was made with [VVVV Gamma](https://github.com/vvvv) 6.6
 Many thanks to the community for the video tutorials and NuGet that helped me create this application.
 
-Additional NuGet's that was be used: [VL.IO.MouseKeyGlobal](https://github.com/bj-rn/VL.IO.MouseKeyGlobal), [VL.WinFormsUtils](https://github.com/domjancik/VL.WinFormsUtils)
+Additional NuGet's: [VL.IO.MouseKeyGlobal](https://github.com/bj-rn/VL.IO.MouseKeyGlobal), [VL.WinFormsUtils](https://github.com/domjancik/VL.WinFormsUtils)
 
 Installer was made with [Inno Setup](https://github.com/jrsoftware/issrc).
 
 ## Functionality
-You can emulate pressing any key on the system by sending its name via OSC. The application listens for a UDP packet with an OSC command on port ***5366***.  
+You can emulate pressing any key on the system by sending its name via OSC. The application listens for a UDP packet with an OSC command on port ***5366***. 
 
 OSC command address: 
 
